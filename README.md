@@ -76,7 +76,7 @@ GATCACAGGTCTATCACCCTATTAACCA
 ​提交入口​：开放 contaminant_submission_template.tsv，支持用户提交新污染物
 ​更新策略​：季度更新（请订阅 Watch 获取通知）
 ​
-如觉得本资源游泳，请在发表时添加科学引用，助力好资源传播​：
+如觉得本资源有用，请在发表时添加引用，助力资源传播​：
 ```
 bibtex
 @misc{NGSContaminantsDB,  
@@ -86,3 +86,14 @@ bibtex
   url    = {https://github.com/qzhaojing/NGS_Contaminants_Database}  
 }
 ```
+
+
+reference:
+
+1. [docs/adapters.md](https://github.com/y9c/cutseq/blob/main/docs/adapters.md)
+2. https://github.com/OpenGene/fastp/blob/master/src/knownadapters.h
+3. https://zhuanlan.zhihu.com/p/673092265  宏基因组测序分析（二）测序数据质控过滤
+4. https://blog.csdn.net/weixin_44223966/article/details/107077993?spm=1001.2101.3001.6650.7&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-7-107077993-blog-141106865.235%5Ev43%5Econtrol&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-7-107077993-blog-141106865.235%5Ev43%5Econtrol&utm_relevant_index=13
+5. 
+6. 
+
